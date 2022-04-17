@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/tree-editor.github.io/static/css/main.181f281d.css",
-    "main.js": "/tree-editor.github.io/static/js/main.65b59f11.js",
-    "index.html": "/tree-editor.github.io/index.html",
-    "main.181f281d.css.map": "/tree-editor.github.io/static/css/main.181f281d.css.map",
-    "main.65b59f11.js.map": "/tree-editor.github.io/static/js/main.65b59f11.js.map"
+    "main.css": "/tree-editor/static/css/main.4dd97e76.chunk.css",
+    "main.js": "/tree-editor/static/js/main.386b4727.chunk.js",
+    "main.js.map": "/tree-editor/static/js/main.386b4727.chunk.js.map",
+    "runtime-main.js": "/tree-editor/static/js/runtime-main.8d365db7.js",
+    "runtime-main.js.map": "/tree-editor/static/js/runtime-main.8d365db7.js.map",
+    "static/css/2.72a89147.chunk.css": "/tree-editor/static/css/2.72a89147.chunk.css",
+    "static/js/2.c2f8617c.chunk.js": "/tree-editor/static/js/2.c2f8617c.chunk.js",
+    "static/js/2.c2f8617c.chunk.js.map": "/tree-editor/static/js/2.c2f8617c.chunk.js.map",
+    "index.html": "/tree-editor/index.html",
+    "static/css/2.72a89147.chunk.css.map": "/tree-editor/static/css/2.72a89147.chunk.css.map",
+    "static/css/main.4dd97e76.chunk.css.map": "/tree-editor/static/css/main.4dd97e76.chunk.css.map",
+    "static/js/2.c2f8617c.chunk.js.LICENSE.txt": "/tree-editor/static/js/2.c2f8617c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.181f281d.css",
-    "static/js/main.65b59f11.js"
+    "static/js/runtime-main.8d365db7.js",
+    "static/css/2.72a89147.chunk.css",
+    "static/js/2.c2f8617c.chunk.js",
+    "static/css/main.4dd97e76.chunk.css",
+    "static/js/main.386b4727.chunk.js"
   ]
 }
